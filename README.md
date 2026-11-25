@@ -13,14 +13,11 @@
 ---
 
 ##  About Me
-- 🎓 Software Engineer Student At DBU
-- 💻 Full-Stack Developer
+- 💻 Full-Stack and Mobile Developer
 - 🔐 Cybersecurity Student at GTST
-- 📱 Learning Mobile Development with Flutter & Dart
 - ⚙️ Learning DevOps, Docker, CI/CD & Kubernetes
 - 🛠️ Experienced with Git, GitHub, Jira & Kanban
-- 🚀 Interested in building scalable and secure applications
-- 🌱 Continuously learning and improving my software engineering and cybersecurity skills
+
 
 ---
 
@@ -31,7 +28,7 @@
 
 
 <p >
-  <img src="https://skillicons.dev/icons?i=ts,html,css,js,react,nodejs,express,mysql,postgres,cpp,python,java,php,dart,flutter,docker,jenkins,kubernetes,linux,nginx&perline=13" />
+  <img src="https://skillicons.dev/icons?i=ts,react,express,python,java,flutter,docker" />
 </p>
 
 
