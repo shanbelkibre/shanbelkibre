@@ -13,7 +13,7 @@
 ---
 
 ##  About Me
-- 💻 Full-Stack and Mobile Developer
+- 💻 Full-Stack and Mobile App Developer
 - 🔐 Cybersecurity Student at GTST
 - ⚙️ Learning DevOps, Docker, CI/CD & Kubernetes
 - 🛠️ Experienced with Git, GitHub, Jira & Kanban
